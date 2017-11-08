@@ -255,7 +255,6 @@ return [
         'DNS2D' => Milon\Barcode\Facades\DNS2DFacade::class,
         'Socialite' => Laravel\Socialite\Facades\Socialite::class,
         'Entrust'   => Zizaco\Entrust\EntrustFacade::class,
-
     ],
 
 ];

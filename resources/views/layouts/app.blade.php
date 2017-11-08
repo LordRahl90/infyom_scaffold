@@ -26,7 +26,7 @@
 
             <!-- Logo -->
             <a href="#" class="logo">
-                <b>InfyOm</b>
+                <b>Event</b>Marketplace
             </a>
 
             <!-- Header Navbar -->
